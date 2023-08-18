@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460561234575",
+    "project_id": "digitaldoor-1c390",
+    "storage_bucket": "digitaldoor-1c390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460561234575:android:c45cf2f5b43490c4204efa",
+        "android_client_info": {
+          "package_name": "com.example.jagl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460561234575-4ep40t4ott1rdfe5jnr8jn6cgna1s6e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUHKZbuVGd9UAvGtSzHCe30UxJ3viKLrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460561234575-4ep40t4ott1rdfe5jnr8jn6cgna1s6e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
